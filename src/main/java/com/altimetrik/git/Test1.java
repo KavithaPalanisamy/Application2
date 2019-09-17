@@ -49,4 +49,8 @@ public class Test1 {
 		rec(oriString.substring(i++),oriString.substring(i++));
 
 	}
+	
+	public void test(){
+		System.out.println("Test");
+	}
 }
