@@ -22,11 +22,11 @@ public class Test1 {
 	}
 
 	private String part1() {
-		return "Dhinahar";
+		return "Dhinahar Shanmugasundaram";
 	}
 
 	private String part2() {
-		return "Kavitha";
+		return "Kavitha Palanisamy";
 	}
 
 	public static void main(String args[]) {
