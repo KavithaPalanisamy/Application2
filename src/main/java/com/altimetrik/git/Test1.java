@@ -57,4 +57,8 @@ public class Test1 {
 	public void branch3(){
 		System.out.println("branch3");
 	}
+	
+	public void branch4(){
+		System.out.println("branch4");
+	}
 }
